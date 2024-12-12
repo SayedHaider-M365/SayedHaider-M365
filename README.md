@@ -1,14 +1,10 @@
 - 👋 Hi, I’m @SayedHaider
 - 👀 I am a Microsoft 365 Expert and trainer with more than a decade of experience in cloud technology, I'm passionate about M365, Entra ID, Access Management and cloud Solutions. I'm skilled at facing challenges, adapting to new trends, and always exceeding client expectations.
 - Microsoft 365 Skills:
--                       Exchange Online
--                       SharePoint Online
--                       Entra ID and Access Management solutions
--                       Defender for Office 365
--                       Exchange 2010/2013/2016/2019 & Hybrid Coexistence
 -                       M365 Tenant to Tenant Migration
 -                       Onprem Exchange to M365 Migration
 -                       Google Workspace to M365 Migration
+-                       Entra ID and Access Management solutions
 -                       PowerShell Scripting 
 - 💞️ I’m looking to collaborate on M365 migration projects
-- 📫 Reach me on sayed.haider@outlook.com 
+- 📫 Reach me on sayed.haider@outlook.com
