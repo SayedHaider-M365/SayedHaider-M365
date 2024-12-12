@@ -8,3 +8,4 @@
 -                       PowerShell Scripting 
 - 💞️ I’m looking to collaborate on M365 migration projects
 - 📫 Reach me on sayed.haider@outlook.com
+![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f617a7572652d2532333030373243362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f6674617a757265266c6f676f436f6c6f723d7768697465](https://github.com/user-attachments/assets/46b4f517-36b5-49e7-a1bf-3d894c6b4ded)
